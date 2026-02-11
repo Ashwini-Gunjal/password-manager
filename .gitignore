@@ -1,0 +1,31 @@
+# Java and Maven
+
+# Compiled class file
+*.class
+
+# Package Files
+*.jar
+*.war
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# IDE files
+.idea/
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Safe to ignore other builds
+classpath/target/
+*.swp
+*~
+
+# Mac system files
+.DS_Store
